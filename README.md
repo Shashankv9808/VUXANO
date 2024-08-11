@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @VUXANO
-- 👀 I’m interested in WebDevelopment and AI
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on WebDevelopment and AI
+- 👋 Hi, I’m @ShashankV
+- 👀 I’m interested in Web, Mobile, Web3.0 and AI Development
+- 🌱 I’m currently learning Flutter
+- 💞️ I’m looking to collaborate on WebDevelopment.
 
